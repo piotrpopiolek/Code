@@ -1,0 +1,7 @@
+Ogniskowa obiektywu: 1534 mm
+   f okularu   powiekszenie
+         4.0            384
+        34.0             45
+        34.0             45
+        35.0             44
+        24.0             64

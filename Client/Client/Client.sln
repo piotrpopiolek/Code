@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Client", "Client\Client.vcxproj", "{C35BFB1A-550A-4B71-8D4B-6FA54785D390}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{148D0D16-5224-42CF-8D64-8BE1710F64CB}"
+	ProjectSection(SolutionItems) = preProject
+		Client\Client.cpp = Client\Client.cpp
+		Client\Client.h = Client\Client.h
+		Client\FileTransferData.h = Client\FileTransferData.h
+		Client\main.cpp = Client\main.cpp
+		Client\Packet.cpp = Client\Packet.cpp
+		Client\Packet.h = Client\Packet.h
+		Client\PacketManager.cpp = Client\PacketManager.cpp
+		Client\PacketManager.h = Client\PacketManager.h
+		Client\PacketType.h = Client\PacketType.h
+		Client\SendGetMethods.cpp = Client\SendGetMethods.cpp
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C35BFB1A-550A-4B71-8D4B-6FA54785D390}.Debug|x64.ActiveCfg = Debug|x64
+		{C35BFB1A-550A-4B71-8D4B-6FA54785D390}.Debug|x64.Build.0 = Debug|x64
+		{C35BFB1A-550A-4B71-8D4B-6FA54785D390}.Debug|x86.ActiveCfg = Debug|Win32
+		{C35BFB1A-550A-4B71-8D4B-6FA54785D390}.Debug|x86.Build.0 = Debug|Win32
+		{C35BFB1A-550A-4B71-8D4B-6FA54785D390}.Release|x64.ActiveCfg = Release|x64
+		{C35BFB1A-550A-4B71-8D4B-6FA54785D390}.Release|x64.Build.0 = Release|x64
+		{C35BFB1A-550A-4B71-8D4B-6FA54785D390}.Release|x86.ActiveCfg = Release|Win32
+		{C35BFB1A-550A-4B71-8D4B-6FA54785D390}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

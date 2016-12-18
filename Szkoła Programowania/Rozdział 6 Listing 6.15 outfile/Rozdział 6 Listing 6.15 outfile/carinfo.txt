@@ -1,0 +1,4 @@
+Marka i model: 444
+Rok: 564
+Cena wywolawcza: 12345.00
+Cena biezaca: 11270.99
